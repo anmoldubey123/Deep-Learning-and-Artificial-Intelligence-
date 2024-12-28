@@ -1,0 +1,9 @@
+This project implements a scalable L-layer neural network from scratch, providing a foundation for understanding and experimenting with deep learning concepts. 
+It features customizable architectures, supports multiple activation functions (ReLU, sigmoid, softmax), and uses vectorized operations for efficient computation.
+
+
+
+
+
+
+
